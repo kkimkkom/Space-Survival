@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/kkimk/Desktop/CLASS/LEVEL3/PROG2370_GameProgDataStructures/final/GameFinalProject/GameFinalProject/Content/Fonts/RegularFont.spritefont</SourceFile>
-  <SourceTime>2020-12-04T01:24:54.9323507-05:00</SourceTime>
-  <DestFile>C:/Users/kkimk/Desktop/CLASS/LEVEL3/PROG2370_GameProgDataStructures/final/GameFinalProject/GameFinalProject/Content/bin/Windows/Fonts/RegularFont.xnb</DestFile>
-  <DestTime>2020-12-04T03:30:54.2926955-05:00</DestTime>
+  <SourceFile>C:/Users/ezatr/source/repos/SpaceSurvival/Space-Survival/GameFinalProject/Content/Fonts/RegularFont.spritefont</SourceFile>
+  <SourceTime>2020-12-04T01:24:56-05:00</SourceTime>
+  <DestFile>C:/Users/ezatr/source/repos/SpaceSurvival/Space-Survival/GameFinalProject/Content/bin/Windows/Fonts/RegularFont.xnb</DestFile>
+  <DestTime>2020-12-05T03:04:11.3770405-05:00</DestTime>
   <Importer>FontDescriptionImporter</Importer>
   <ImporterTime>2018-12-08T11:35:54-05:00</ImporterTime>
   <Processor>FontDescriptionProcessor</Processor>

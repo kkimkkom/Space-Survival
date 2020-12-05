@@ -4,11 +4,19 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/kkimk/Desktop/CLASS/LEVEL3/PROG2370_GameProgDataStructures/final/GameFinalProject/GameFinalProject/Content/Fonts/HighlightFont.spritefont</File>
-    <File>C:/Users/kkimk/Desktop/CLASS/LEVEL3/PROG2370_GameProgDataStructures/final/GameFinalProject/GameFinalProject/Content/Fonts/RegularFont.spritefont</File>
-    <File>C:/Users/kkimk/Desktop/CLASS/LEVEL3/PROG2370_GameProgDataStructures/final/GameFinalProject/GameFinalProject/Content/Fonts/SpecialFont.spritefont</File>
+    <File>C:/Users/ezatr/source/repos/SpaceSurvival/Space-Survival/GameFinalProject/Content/Fonts/HighlightFont.spritefont</File>
+    <File>C:/Users/ezatr/source/repos/SpaceSurvival/Space-Survival/GameFinalProject/Content/Fonts/RegularFont.spritefont</File>
+    <File>C:/Users/ezatr/source/repos/SpaceSurvival/Space-Survival/GameFinalProject/Content/Fonts/SpecialFont.spritefont</File>
+    <File>C:/Users/ezatr/source/repos/SpaceSurvival/Space-Survival/GameFinalProject/Content/Sounds/BackgroundMusic.mp3</File>
+    <File>C:/Users/ezatr/source/repos/SpaceSurvival/Space-Survival/GameFinalProject/Content/Sounds/Explosion.wav</File>
+    <File>C:/Users/ezatr/source/repos/SpaceSurvival/Space-Survival/GameFinalProject/Content/Sounds/GameOver.wav</File>
+    <File>C:/Users/ezatr/source/repos/SpaceSurvival/Space-Survival/GameFinalProject/Content/Sounds/WinSound.wav</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
