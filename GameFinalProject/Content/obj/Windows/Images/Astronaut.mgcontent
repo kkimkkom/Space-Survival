@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SourceFile>C:/Users/kkimk/source/repos/Space-Survival/GameFinalProject/Content/Images/Astronaut.png</SourceFile>
-  <SourceTime>2020-12-05T03:15:14.4828168-05:00</SourceTime>
+  <SourceTime>2020-12-05T03:47:08.0633915-05:00</SourceTime>
   <DestFile>C:/Users/kkimk/source/repos/Space-Survival/GameFinalProject/Content/bin/Windows/Images/Astronaut.xnb</DestFile>
-  <DestTime>2020-12-05T03:28:00.0608713-05:00</DestTime>
+  <DestTime>2020-12-05T03:49:51.0231303-05:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2018-12-08T11:35:54-05:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
