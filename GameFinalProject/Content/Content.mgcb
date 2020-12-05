@@ -124,6 +124,12 @@
 /processorParam:Quality=Best
 /build:Sounds/BackgroundMusic.mp3
 
+#begin Sounds/Click.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Sounds/Click.wav
+
 #begin Sounds/Explosion.wav
 /importer:WavImporter
 /processor:SoundEffectProcessor
@@ -135,6 +141,12 @@
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
 /build:Sounds/GameOver.wav
+
+#begin Sounds/StartMusic.mp3
+/importer:Mp3Importer
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:Sounds/StartMusic.mp3
 
 #begin Sounds/WinSound.wav
 /importer:WavImporter

@@ -15,11 +15,15 @@
     <File>C:/Users/kkimk/source/repos/Space-Survival/GameFinalProject/Content/Images/Rocket.png</File>
     <File>C:/Users/kkimk/source/repos/Space-Survival/GameFinalProject/Content/Images/SpaceShip Explosion.png</File>
     <File>C:/Users/kkimk/source/repos/Space-Survival/GameFinalProject/Content/Sounds/BackgroundMusic.mp3</File>
+    <File>C:/Users/kkimk/source/repos/Space-Survival/GameFinalProject/Content/Sounds/Click.wav</File>
     <File>C:/Users/kkimk/source/repos/Space-Survival/GameFinalProject/Content/Sounds/Explosion.wav</File>
     <File>C:/Users/kkimk/source/repos/Space-Survival/GameFinalProject/Content/Sounds/GameOver.wav</File>
+    <File>C:/Users/kkimk/source/repos/Space-Survival/GameFinalProject/Content/Sounds/StartMusic.mp3</File>
     <File>C:/Users/kkimk/source/repos/Space-Survival/GameFinalProject/Content/Sounds/WinSound.wav</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

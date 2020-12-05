@@ -15,6 +15,8 @@
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
+using Microsoft.Xna.Framework.Media; // for background music
+using Microsoft.Xna.Framework.Audio; // for sound effect
 
 namespace GameFinalProject
 {
@@ -32,6 +34,13 @@ namespace GameFinalProject
         private HelpScene helpScene;
         private HighScoreScene highScoreScene;
         private AboutScene aboutScene;
+
+        // all bgm references
+        private Song startMusic;
+        private Song backgroundMusic;
+
+        // soundEffect
+        private SoundEffect click;
 
 
         public Game1()
@@ -53,7 +62,8 @@ namespace GameFinalProject
 
             base.Initialize();
         }
-
+        
+        //* Need comment
         /// <summary>
         /// 
         /// </summary>
@@ -70,6 +80,21 @@ namespace GameFinalProject
             }
         }
 
+
+        /// <summary>
+        /// Switch background music.
+        /// If the music was already playing, make it stop and play new song.
+        /// </summary>
+        /// <param name="song"></param>
+        private static void SwitchMusic(Song song)
+        {
+            if (MediaPlayer.State == MediaState.Playing)
+            {
+                MediaPlayer.Stop();
+            }
+            MediaPlayer.Play(song);
+        }
+
         /// <summary>
         /// LoadContent will be called once per game and is the place to load
         /// all of your content.
@@ -81,11 +106,16 @@ namespace GameFinalProject
 
             // TODO: use this.Content to load your game content here
 
+            // background music
+            startMusic = Content.Load<Song>("Sounds/StartMusic");
+            backgroundMusic = Content.Load<Song>("Sounds/BackgroundMusic");
+            click = Content.Load<SoundEffect>("Sounds/Click");
+
             // Instantiate all scenes
-            startScene = new StartScene(this, spriteBatch);
+            startScene = new StartScene(this, spriteBatch, startMusic, click);
             this.Components.Add(startScene);
             
-            playScene = new PlayScene(this, spriteBatch);
+            playScene = new PlayScene(this, spriteBatch, backgroundMusic);
             this.Components.Add(playScene);
 
             helpScene = new HelpScene(this, spriteBatch);
@@ -97,8 +127,10 @@ namespace GameFinalProject
             aboutScene = new AboutScene(this, spriteBatch);
             this.Components.Add(aboutScene);
 
-            // Show only startScene
+            // Show only startScene and play start music
             startScene.Show();
+            SwitchMusic(startMusic);
+
         }
 
 
@@ -109,6 +141,15 @@ namespace GameFinalProject
         protected override void UnloadContent()
         {
             // TODO: Unload any non ContentManager content here
+            //* tbh I don't know what these mean but somebody in stackoverflow wrote these so just followed
+            if (startMusic != null)
+            {
+                startMusic.Dispose();
+            }
+            if (backgroundMusic != null)
+            {
+                backgroundMusic.Dispose();
+            }
         }
 
         /// <summary>
@@ -133,6 +174,7 @@ namespace GameFinalProject
                     {
                         case 0:
                             playScene.Show();
+                            SwitchMusic(backgroundMusic);
                             break;
                         case 1:
                             helpScene.Show();
@@ -174,10 +216,16 @@ namespace GameFinalProject
                 {
                     HideAllScenes();
                     startScene.Show();
+                    SwitchMusic(startMusic);
                 }
             }
 
             base.Update(gameTime);
+        }
+
+        private void MediaPlayer_ActiveSongChanged(object sender, System.EventArgs e)
+        {
+            throw new System.NotImplementedException();
         }
 
         /// <summary>

@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
+using Microsoft.Xna.Framework.Audio;
 
 namespace GameFinalProject
 {
@@ -24,18 +25,21 @@ namespace GameFinalProject
 
         private Vector2 position;
         private KeyboardState oldState;
+        //* =============================
+        private SoundEffect click;
 
         public MenuComponent(Game game,
             SpriteBatch spriteBatch,
             SpriteFont regularFont,
             SpriteFont highlightFont,
-            string[] menu) : base(game)
+            string[] menu, SoundEffect click) : base(game)
         {
             this.spriteBatch = spriteBatch;
             this.regularFont = regularFont;
             this.highlightFont = highlightFont;
             menuArray = menu;
             position = new Vector2(Shared.stage.X * 3 / 4, Shared.stage.Y / 2);
+            this.click = click;
         }
 
         
@@ -66,7 +70,7 @@ namespace GameFinalProject
         public override void Update(GameTime gameTime)
         {
             KeyboardState ks = Keyboard.GetState();
-
+            
             if (ks.IsKeyDown(Keys.Down) && oldState.IsKeyUp(Keys.Down))
             {
                 selectedIndex++;
@@ -74,6 +78,7 @@ namespace GameFinalProject
                 {
                     selectedIndex = 0;
                 }
+                click.Play();
             }
 
             if (ks.IsKeyDown(Keys.Up) && oldState.IsKeyUp(Keys.Up))
@@ -83,6 +88,7 @@ namespace GameFinalProject
                 {
                     selectedIndex = menuArray.Length - 1;
                 }
+                click.Play();
             }
 
             oldState = ks;
