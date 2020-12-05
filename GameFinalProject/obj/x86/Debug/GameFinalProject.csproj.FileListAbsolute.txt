@@ -1,0 +1,52 @@
+C:\Users\kkimk\Desktop\CLASS\LEVEL3\PROG2370_GameProgDataStructures\final\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\Content\Fonts\HighlightFont.xnb
+C:\Users\kkimk\Desktop\CLASS\LEVEL3\PROG2370_GameProgDataStructures\final\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\Content\Fonts\RegularFont.xnb
+C:\Users\kkimk\Desktop\CLASS\LEVEL3\PROG2370_GameProgDataStructures\final\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\Content\Fonts\SpecialFont.xnb
+C:\Users\kkimk\Desktop\CLASS\LEVEL3\PROG2370_GameProgDataStructures\final\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\GameFinalProject.exe
+C:\Users\kkimk\Desktop\CLASS\LEVEL3\PROG2370_GameProgDataStructures\final\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\GameFinalProject.pdb
+C:\Users\kkimk\Desktop\CLASS\LEVEL3\PROG2370_GameProgDataStructures\final\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\kkimk\Desktop\CLASS\LEVEL3\PROG2370_GameProgDataStructures\final\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\kkimk\Desktop\CLASS\LEVEL3\PROG2370_GameProgDataStructures\final\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\kkimk\Desktop\CLASS\LEVEL3\PROG2370_GameProgDataStructures\final\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\kkimk\Desktop\CLASS\LEVEL3\PROG2370_GameProgDataStructures\final\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\kkimk\Desktop\CLASS\LEVEL3\PROG2370_GameProgDataStructures\final\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\kkimk\Desktop\CLASS\LEVEL3\PROG2370_GameProgDataStructures\final\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\kkimk\Desktop\CLASS\LEVEL3\PROG2370_GameProgDataStructures\final\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\kkimk\Desktop\CLASS\LEVEL3\PROG2370_GameProgDataStructures\final\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\kkimk\Desktop\CLASS\LEVEL3\PROG2370_GameProgDataStructures\final\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\kkimk\Desktop\CLASS\LEVEL3\PROG2370_GameProgDataStructures\final\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\kkimk\Desktop\CLASS\LEVEL3\PROG2370_GameProgDataStructures\final\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\kkimk\Desktop\CLASS\LEVEL3\PROG2370_GameProgDataStructures\final\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\kkimk\Desktop\CLASS\LEVEL3\PROG2370_GameProgDataStructures\final\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\kkimk\Desktop\CLASS\LEVEL3\PROG2370_GameProgDataStructures\final\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\kkimk\Desktop\CLASS\LEVEL3\PROG2370_GameProgDataStructures\final\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\kkimk\Desktop\CLASS\LEVEL3\PROG2370_GameProgDataStructures\final\GameFinalProject\GameFinalProject\obj\x86\Debug\GameFinalProject.csprojAssemblyReference.cache
+C:\Users\kkimk\Desktop\CLASS\LEVEL3\PROG2370_GameProgDataStructures\final\GameFinalProject\GameFinalProject\obj\x86\Debug\GameFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\kkimk\Desktop\CLASS\LEVEL3\PROG2370_GameProgDataStructures\final\GameFinalProject\GameFinalProject\obj\x86\Debug\GameFinalProject.csproj.CopyComplete
+C:\Users\kkimk\Desktop\CLASS\LEVEL3\PROG2370_GameProgDataStructures\final\GameFinalProject\GameFinalProject\obj\x86\Debug\GameFinalProject.exe
+C:\Users\kkimk\Desktop\CLASS\LEVEL3\PROG2370_GameProgDataStructures\final\GameFinalProject\GameFinalProject\obj\x86\Debug\GameFinalProject.pdb
+C:\MY DRIVE\Semester 3\Game programming\Assignments\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\Content\Fonts\HighlightFont.xnb
+C:\MY DRIVE\Semester 3\Game programming\Assignments\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\Content\Fonts\RegularFont.xnb
+C:\MY DRIVE\Semester 3\Game programming\Assignments\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\Content\Fonts\SpecialFont.xnb
+C:\MY DRIVE\Semester 3\Game programming\Assignments\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\GameFinalProject.exe
+C:\MY DRIVE\Semester 3\Game programming\Assignments\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\GameFinalProject.pdb
+C:\MY DRIVE\Semester 3\Game programming\Assignments\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\MY DRIVE\Semester 3\Game programming\Assignments\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\MY DRIVE\Semester 3\Game programming\Assignments\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\MY DRIVE\Semester 3\Game programming\Assignments\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\MY DRIVE\Semester 3\Game programming\Assignments\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\MY DRIVE\Semester 3\Game programming\Assignments\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\MY DRIVE\Semester 3\Game programming\Assignments\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\MY DRIVE\Semester 3\Game programming\Assignments\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\MY DRIVE\Semester 3\Game programming\Assignments\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\MY DRIVE\Semester 3\Game programming\Assignments\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\MY DRIVE\Semester 3\Game programming\Assignments\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\MY DRIVE\Semester 3\Game programming\Assignments\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\MY DRIVE\Semester 3\Game programming\Assignments\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\MY DRIVE\Semester 3\Game programming\Assignments\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\MY DRIVE\Semester 3\Game programming\Assignments\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\MY DRIVE\Semester 3\Game programming\Assignments\GameFinalProject\GameFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\MY DRIVE\Semester 3\Game programming\Assignments\GameFinalProject\GameFinalProject\obj\x86\Debug\GameFinalProject.csprojAssemblyReference.cache
+C:\MY DRIVE\Semester 3\Game programming\Assignments\GameFinalProject\GameFinalProject\obj\x86\Debug\GameFinalProject.csproj.CoreCompileInputs.cache
+C:\MY DRIVE\Semester 3\Game programming\Assignments\GameFinalProject\GameFinalProject\obj\x86\Debug\GameFinalProject.csproj.CopyComplete
+C:\MY DRIVE\Semester 3\Game programming\Assignments\GameFinalProject\GameFinalProject\obj\x86\Debug\GameFinalProject.exe
+C:\MY DRIVE\Semester 3\Game programming\Assignments\GameFinalProject\GameFinalProject\obj\x86\Debug\GameFinalProject.pdb

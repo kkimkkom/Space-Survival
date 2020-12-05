@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/kkimk/Desktop/CLASS/LEVEL3/PROG2370_GameProgDataStructures/final/GameFinalProject/GameFinalProject/Content/Fonts/HighlightFont.spritefont</File>
+    <File>C:/Users/kkimk/Desktop/CLASS/LEVEL3/PROG2370_GameProgDataStructures/final/GameFinalProject/GameFinalProject/Content/Fonts/RegularFont.spritefont</File>
+    <File>C:/Users/kkimk/Desktop/CLASS/LEVEL3/PROG2370_GameProgDataStructures/final/GameFinalProject/GameFinalProject/Content/Fonts/SpecialFont.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
