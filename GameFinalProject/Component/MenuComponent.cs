@@ -78,7 +78,8 @@ namespace GameFinalProject
                 {
                     selectedIndex = 0;
                 }
-                click.Play();
+                // sound effect when moving between menu items
+                //click.Play();
             }
 
             if (ks.IsKeyDown(Keys.Up) && oldState.IsKeyUp(Keys.Up))
@@ -88,7 +89,7 @@ namespace GameFinalProject
                 {
                     selectedIndex = menuArray.Length - 1;
                 }
-                click.Play();
+                //click.Play();
             }
 
             oldState = ks;

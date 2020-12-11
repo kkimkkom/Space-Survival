@@ -8,6 +8,11 @@
  *      Dec 04, 2020 : Created
  *                      - Shared, GameScene, StartScene, PlayScene, HelpScene, HighScoreScene, AboutScene, MenuComponent
  *      Dec 05, 2020 : Added Image and Sound Contents
+ *      
+ *      ===================================================
+ *      Dec 11, 2020 : Separated file created
+ *                      Add astronaut component with moving
+ *                      
  * 
  */
 
@@ -170,6 +175,8 @@ namespace GameFinalProject
                 if (ks.IsKeyDown(Keys.Enter))
                 {
                     HideAllScenes();
+                    // sound effect when selecting menu
+                    click.Play();
                     switch (selectedIndex)
                     {
                         case 0:
